@@ -3,7 +3,7 @@
 ## Overview
 This project aims to develop a deep learning-based system capable of detecting driver drowsiness from frame images. The system uses simple Convolutional Neural Networks (CNNs) and pre-trained ResNet50V2 models to determine the alertness of a driver by analyzing facial and eye states. The trained models are then integrated into OpenCV for real-time detection using a webcam.
 
-This project is a part of COMP-3704 Neural Networks and Deep Learning, Fall 2024 at ==Red River College Polytechnic==[^1].
+This project is a part of COMP-3704 Neural Networks and Deep Learning[^1], Fall 2024 at [Red River College Polytechnic](https://www.rrc.ca/).
 
 ## Dataset
 [Driver Drowsiness Dataset (DDD)](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd)<br>
@@ -61,4 +61,4 @@ python real_time_detection.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-[^1]: https://www.rrc.ca/
+[^1]: https://www.rrc.ca/explore/program/data-science-and-machine-learning/
